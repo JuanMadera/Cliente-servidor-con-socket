@@ -1,1 +1,5 @@
-# Cliente-servidor-con-socket
+# Cliente servidor con socket
+
+# Integrantes:
+
+- Juan Madera
