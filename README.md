@@ -3,3 +3,4 @@
 # Integrantes:
 
 - Juan Madera
+- Isabela Castellar 
